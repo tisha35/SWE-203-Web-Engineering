@@ -1,0 +1,1 @@
+console.log("The server is running on port 3000");
